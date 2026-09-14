@@ -125,9 +125,23 @@ The exact hackathon source snapshot is available through the Git tag:
 
 The original application depends on portions of the Aha! Builder runtime and is not currently maintained as a standalone production deployment.
 
-## Demo
+## Video Demo
 
-A recorded demonstration of the final AI Builder Day version will be added here.
+[Watch the 3-minute MergeFlow demo](https://www.youtube.com/watch?v=ynqK7gvDWjo)
+
+## Screenshots
+
+### Migration Dashboard
+![MergeFlow migration dashboard](docs/screenshots/dashboard.PNG)
+
+### Human-in-the-loop remediation
+![MergeFlow rule remediation workflow](docs/screenshots/rule-remediation.PNG)
+
+### Duplicate review
+![MergeFlow duplicate comparison](docs/screenshots/duplicate-review.PNG)
+
+### Auditable decision history
+![MergeFlow audit log](docs/screenshots/audit-log.PNG)
 
 ## Project Status
 
