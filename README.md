@@ -4,6 +4,11 @@
 
 MergeFlow was created during **Aha! AI Builder Day 2026** to explore how AI-assisted software can make complex business data migrations easier to review, coordinate, and audit without removing human judgment from important decisions.
 
+
+## Video Demo
+
+[Watch the 3-minute MergeFlow demo](https://www.youtube.com/watch?v=ynqK7gvDWjo)
+
 ## What is MergeFlow?
 
 MergeFlow is a data migration workspace designed for integrations and mergers and acquisitions.
@@ -124,10 +129,6 @@ The exact hackathon source snapshot is available through the Git tag:
 `ai-builder-day-2026-final`
 
 The original application depends on portions of the Aha! Builder runtime and is not currently maintained as a standalone production deployment.
-
-## Video Demo
-
-[Watch the 3-minute MergeFlow demo](https://www.youtube.com/watch?v=ynqK7gvDWjo)
 
 ## Screenshots
 
